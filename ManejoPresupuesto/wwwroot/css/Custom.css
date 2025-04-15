@@ -1,0 +1,57 @@
+﻿#reordenable tr{
+    cursor: move;
+}
+
+
+.contendor-totales {
+    display: flex;
+    justify-content: space-around;
+    font-size: 26px;
+    text-align: center;
+}
+
+.activo {
+    color: green;
+}
+
+.pasivo {
+    color: red;
+}
+
+.acordeon-cuentas button {
+    color: black !important;
+    font-size: 24px;
+}
+
+    .acordeon-cuentas button > span {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+.acordeon-cuentas ul li {
+    display: flex;
+    justify-content: space-between;
+}
+
+.acordeon-cuentas .accordion-collapse {
+    font-size: 18px;
+}
+
+.active {
+    background-color: #007bff; /* azul */
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: center
+}
+.nav-item {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: center;
+}
+
