@@ -161,3 +161,4 @@ C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupues
 C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
 C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net8.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
 C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net8.0\ManejoPresupuesto.sourcelink.json

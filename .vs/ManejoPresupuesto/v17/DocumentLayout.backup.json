@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\_submenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\_submenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\mensual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\mensual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\semanal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\semanal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\calendario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\calendario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\excelreporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\excelreporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\servicios\\servicioreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\servicioreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\mensual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\mensual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\servicios\\generarexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\generarexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\models\\resultadoobtenerpormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\resultadoobtenerpormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\shared\\_resumenmonto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\shared\\_resumenmonto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,51 +43,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_SubMenu.cshtml",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\_SubMenu.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\_SubMenu.cshtml",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\_SubMenu.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\_SubMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T16:36:20.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Index.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Index.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T22:27:39.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Calendario.cshtml",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Calendario.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T22:32:12.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ExcelReporte.cshtml",
               "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
               "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
               "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T22:31:50.646Z"
+              "WhenOpened": "2025-04-17T19:37:58.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerarExcel.cs",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\GenerarExcel.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\GenerarExcel.cs",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\GenerarExcel.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\GenerarExcel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:15:46.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T17:17:17.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ResumenMonto.cshtml",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_ResumenMonto.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Shared\\_ResumenMonto.cshtml",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_ResumenMonto.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Shared\\_ResumenMonto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T17:02:46.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -105,57 +100,36 @@
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Mensual.cshtml",
               "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Mensual.cshtml",
               "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Mensual.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T22:31:25.859Z"
+              "WhenOpened": "2025-04-17T04:34:56.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Semanal.cshtml",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Semanal.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Semanal.cshtml",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Semanal.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Semanal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T22:30:41.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Program.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Program.cs",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Program.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:57:15.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServicioReportes.cs",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\ServicioReportes.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\ServicioReportes.cs",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\ServicioReportes.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\ServicioReportes.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:43:50.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "TransaccionesController.cs",
               "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
               "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
               "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAKgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:30:35.205Z"
+              "WhenOpened": "2025-04-17T02:45:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultadoObtenerPorMes.cs",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ResultadoObtenerPorMes.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\ResultadoObtenerPorMes.cs",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ResultadoObtenerPorMes.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Models\\ResultadoObtenerPorMes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:34:47.318Z",
+              "EditorCaption": ""
             }
           ]
         }

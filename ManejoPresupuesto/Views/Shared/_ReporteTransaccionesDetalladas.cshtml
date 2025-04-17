@@ -1,40 +1,15 @@
 ﻿@model ReporteTransaccionesDetalladas
 
-
-
-<h4>
-	<a asp-route-mes="@ViewBag.mesAnterior" asp-route-ano="@ViewBag.anoAnterior"
-	   class="btn btn-secondary">
-		<i class="bi-chevron-left"></i>
-	</a>
-	@Model.Fechainicio.ToString("MMM")-@Model.Fechainicio.Year
-
-	<a asp-route-mes="@ViewBag.mesPosterior" asp-route-ano="@ViewBag.anoPosterior" class="btn btn-secondary">
-		<i class="bi-chevron-right"></i>
-	</a>
-
-</h4>
-
-<div class="contendor-totales mb-3">
-	<div>
-		<strong>Depósitos</strong>
-	</div>
-	<div class="activo">
-		@Model.BalanceDepositos.ToString("N")
-	</div><div>
-		<strong>Retiros</strong>
-	</div>
-	<div class="pasivo">
-		@Model.BalanceRetiros.ToString("N")
-	</div>
-	<div>
-		<strong>Total</strong>
-	</div>
-	<div>
-		@Model.Total.ToString("N")
-	</div>
-
-</div>
+@{
+	var resumenMonto = new ResumenMontoViewModel()
+	{
+		Ingresos = Model.BalanceDepositos,
+		Gastos = Model.BalanceRetiros,
+		Total = Model.Total
+	};
+}
+<partial name="_NavegarPorMeses" model="@Model.Fechainicio" />
+<partial name="_ResumenMonto" model="@resumenMonto" />
 
 @if (Model.TransaccionesAgrupadas.Count() == 0)
 {
