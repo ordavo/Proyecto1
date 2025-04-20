@@ -205,6 +205,14 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\index.global.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\index.global.js"
+    },
+    {
+      "Id": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\fullcalendar\\index.global.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\index.global.min.js"
+    },
+    {
       "Id": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-ui\\AUTHORS.txt"
     },

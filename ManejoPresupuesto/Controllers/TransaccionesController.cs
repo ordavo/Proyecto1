@@ -6,9 +6,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
 using AspNetCoreGeneratedDocument;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ManejoPresupuesto.Controllers
 {
+    
     public class TransaccionesController : Controller
     {
         private readonly IServicioUsuarios servicioUsuarios;
@@ -34,10 +36,10 @@ namespace ManejoPresupuesto.Controllers
             this.generarExcel = generarExcel;
         }
 
+        
         public async Task<IActionResult> Index(int mes, int ano)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
-
 
             var modelo = await servicioReportes.ObtenerReporteTransaccionesDetalladas(usuarioId, mes, ano, ViewBag);
 
@@ -168,14 +170,86 @@ namespace ManejoPresupuesto.Controllers
 
             return generarExcel.GenerarArchivoExcel(nombreArchivo, transacciones);
 
-
         }
 
+        [HttpGet]
+        public async Task<FileResult> ExportarExcelPorAno(int ano)
+        {
+            var fechaInicio = new DateTime(ano, 1, 1);
+            var fechaFin = fechaInicio.AddYears(1).AddDays(-1);
+            var usuarioId = servicioUsuarios.ObtenerUsuarioId();
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = fechaInicio,
+                FechaFin = fechaFin
+            });
+
+            var nombreArchivo = $"Manejo presupuesto - {fechaInicio.ToString("yyyy")}.xlsx";
+            return generarExcel.GenerarArchivoExcel(nombreArchivo, transacciones);
+        }
+
+        [HttpGet]
+
+        public async Task<FileResult> ExportarExcelTodo(int ano)
+        {
+            
+            var fechaInicio = DateTime.Today.AddYears(-100);
+            var fechaFin = fechaInicio.AddYears(1000);
+            var usuarioId = servicioUsuarios.ObtenerUsuarioId();
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = fechaInicio,
+                FechaFin = fechaFin
+            });
+
+            var nombreArchivo = $"Manejo presupuesto - {DateTime.Today.ToString("dd-MM-yyyy")}.xlsx";
+            return generarExcel.GenerarArchivoExcel(nombreArchivo, transacciones);
+        }
 
         public async Task<IActionResult> Calendario()
         {
             return View();
         }
+        public async Task<JsonResult> ObtenerTransaccionesCalendario(DateTime start, DateTime end)
+        {
+            var usuarioId = servicioUsuarios.ObtenerUsuarioId();
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = start,
+                FechaFin = end
+            });
+
+            var eventosCalendario = transacciones.Select(transaccion => new EventoCalendario()
+            {
+                Title = transaccion.Monto.ToString("N"),
+                Start = transaccion.FechaTransaccion.ToString("yyyy-MM-dd"),
+                End = transaccion.FechaTransaccion.ToString("yyyy-MM-dd"),
+                Color = (transaccion.TipoOperacionId == TipoOperacion.Gasto) ? "Red" : null
+            });
+
+            return Json(eventosCalendario); 
+        }
+
+        public async Task<JsonResult> ObtenerTransaccionesPorFecha(DateTime fecha)
+        {
+            var usuarioId = servicioUsuarios.ObtenerUsuarioId();
+
+            var fechaInicio = fecha.Date;
+            var fechaFin = fecha.Date.AddDays(1).AddTicks(-1); // último tick del día
+
+            var transacciones = await repositorioTransacciones.ObtenerPorUsuarioId(new ParametroObtenerTransaccionesPorUsuario
+            {
+                UsuarioId = usuarioId,
+                FechaInicio = fechaInicio,
+                FechaFin = fechaFin
+            });
+
+            return Json(transacciones);
+        }
+
 
 
         public async Task<IActionResult> Crear()

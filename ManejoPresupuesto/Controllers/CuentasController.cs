@@ -60,7 +60,7 @@ namespace ManejoPresupuesto.Controllers
             }
 
             ViewBag.Cuenta = cuenta.Nombre;
-            var modelo = servicioReportes.ObtenerReporteTransaccionesDetalladasPorCuenta(usuarioId, id, mes, ano, ViewBag);
+            var modelo = await servicioReportes.ObtenerReporteTransaccionesDetalladasPorCuenta(usuarioId, id, mes, ano, ViewBag);
 
             return View(modelo);
 

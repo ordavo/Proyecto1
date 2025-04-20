@@ -162,3 +162,11 @@ C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupues
 C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net8.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
 C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net8.0\ManejoPresupuesto.sourcelink.json
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\RBush.dll
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\kmilo\OneDrive\Documentos\CursosUdemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net8.0\System.IO.Packaging.dll
