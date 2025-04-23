@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\usuarios\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\usuarios\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\servicios\\repositoriotiposcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\repositoriotiposcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\usuarios\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\usuarios\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\servicios\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\views\\shared\\_paginacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\shared\\_paginacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\kmilo\\onedrive\\documentos\\cursosudemy\\manejopresupuesto\\manejopresupuesto\\models\\paginacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CF3F47-8AB3-47A9-8A2B-AD7DB07C0FF7}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\paginacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Custom.css",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\Custom.css",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\wwwroot\\css\\Custom.css",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\Custom.css",
-              "RelativeToolTip": "ManejoPresupuesto\\wwwroot\\css\\Custom.css",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-20T03:38:59.71Z",
+              "DocumentIndex": 0,
+              "Title": "TiposCuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:30:12.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Usuarios\\Registro.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Usuarios\\Registro.cshtml",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Usuarios\\Registro.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Usuarios\\Registro.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T03:27:17.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Usuarios\\Login.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Usuarios\\Login.cshtml",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Usuarios\\Login.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Usuarios\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T03:26:22.312Z",
-              "EditorCaption": ""
+              "Title": "RepositorioTiposCuentas.cs",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioTiposCuentas.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\RepositorioTiposCuentas.cs",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioTiposCuentas.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\RepositorioTiposCuentas.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:28:09.744Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Usuarios\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Usuarios\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Usuarios\\_Layout.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Usuarios\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T03:22:51.649Z",
-              "EditorCaption": ""
+              "Title": "TipoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\TipoCuenta.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\TipoCuenta.cs",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\TipoCuenta.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Models\\TipoCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:25:41.937Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RepositorioUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioUsuarios.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\RepositorioUsuarios.cs",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioUsuarios.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\RepositorioUsuarios.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvx4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T03:17:38.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Program.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Program.cs",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Program.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T18:50:05.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "TransaccionesController.cs",
               "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
               "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
               "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAEwHkBAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T18:45:20.468Z"
+              "WhenOpened": "2025-04-21T16:21:41.356Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Title": "_Paginacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Paginacion.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Shared\\_Paginacion.cshtml",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Paginacion.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Shared\\_Paginacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T00:16:34.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T00:09:27.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginacionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\PaginacionViewModel.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\PaginacionViewModel.cs",
+              "ToolTip": "C:\\Users\\kmilo\\OneDrive\\Documentos\\CursosUdemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\PaginacionViewModel.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Models\\PaginacionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T15:35:16.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T00:03:04.512Z"
             }
           ]
         }

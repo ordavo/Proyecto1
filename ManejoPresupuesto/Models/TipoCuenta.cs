@@ -6,7 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 public class TipoCuenta: IValidatableObject
 {
     public int Id { get; set; }
-    [Remote(action: "VerificarExisteTipoCuenta", controller: "TiposCuentasController")]
+    [Required(ErrorMessage ="El campo {0} es requerido")]
+    [Remote(action: "VerificarExisteTipoCuenta", controller: "TiposCuentasController", AdditionalFields = nameof(Id))]
     public string Nombre { get; set; }
     
     public int UsuarioId { get; set; }

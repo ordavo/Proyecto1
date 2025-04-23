@@ -1,20 +1,21 @@
 ﻿@model SubMenuTransacciones
+
 <div class="mb-3">
 	<ul class="nav nav-pills nav-fill mb-3">
 		<li class="nav-item">
-			<a class="nav nav-item @(Model ==SubMenuTransacciones.Diario ? "active": null)" asp-action="Index">Diario</a>
+			<a class="nav-link @(Model == SubMenuTransacciones.Diario ? "active" : "")" asp-action="Index">Diario</a>
 		</li>
 		<li class="nav-item">
-			<a class="nav nav-item @(Model ==SubMenuTransacciones.Semanal ? "active": null)" asp-action="Semanal">Semanal</a>
+			<a class="nav-link @(Model == SubMenuTransacciones.Semanal ? "active" : "")" asp-action="Semanal">Semanal</a>
 		</li>
 		<li class="nav-item">
-			<a class="nav nav-item @(Model ==SubMenuTransacciones.Mensual ? "active": null)" asp-action="Mensual">Mensual</a>
+			<a class="nav-link @(Model == SubMenuTransacciones.Mensual ? "active" : "")" asp-action="Mensual">Mensual</a>
 		</li>
 		<li class="nav-item">
-			<a class="nav nav-item @(Model ==SubMenuTransacciones.Excel ? "active": null)" asp-action="ExcelReporte">Excel</a>
+			<a class="nav-link @(Model == SubMenuTransacciones.Excel ? "active" : "")" asp-action="ExcelReporte">Excel</a>
 		</li>
 		<li class="nav-item">
-			<a class="nav nav-item @(Model ==SubMenuTransacciones.Calendario ? "active": null)" asp-action="Calendario">Calendario</a>
+			<a class="nav-link @(Model == SubMenuTransacciones.Calendario ? "active" : "")" asp-action="Calendario">Calendario</a>
 		</li>
 	</ul>
 </div>

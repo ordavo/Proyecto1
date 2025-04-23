@@ -38,15 +38,7 @@
     font-size: 18px;
 }
 
-.active {
-    background-color: #007bff; /* azul */
-    color: white;
-    border: none;
-    padding: 15px 40px;
-    border-radius: 6px;
-    cursor: pointer;
-    text-align: center
-}
+
 .nav-item {
     border: none;
     padding: 10px 20px;
